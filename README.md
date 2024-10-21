@@ -1,2 +1,4 @@
 # samples_archive
-Archive with samples data available and doctor information
+Data archive with samples data available and doctor information
+
+https://uclanelsonlab.github.io/samples_archive/

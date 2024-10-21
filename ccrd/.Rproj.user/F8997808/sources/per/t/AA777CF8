@@ -1,0 +1,26 @@
+{
+    "id": "AA777CF8",
+    "path": "~/Documents/nelson-lab/R-projects/ccrd/app.R",
+    "project_path": "app.R",
+    "type": "r_source",
+    "hash": "73520305",
+    "contents": "",
+    "dirty": false,
+    "created": 1728335367796.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "46,34",
+        "scrollLine": "32"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1728430296,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1728430296871,
+    "read_only": false,
+    "read_only_alternatives": []
+}
